@@ -1,0 +1,1 @@
+CREATE TABLE book (id int, title varchar, numberOfPage int, language varchar)

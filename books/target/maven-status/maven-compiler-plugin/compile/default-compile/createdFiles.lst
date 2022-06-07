@@ -1,0 +1,7 @@
+com/books/repository/AuthorRepository.class
+com/books/controller/AuthorController.class
+com/books/controller/BookController.class
+com/books/BooksApplication.class
+com/books/entity/Author.class
+com/books/entity/Book.class
+com/books/repository/BookRepository.class
