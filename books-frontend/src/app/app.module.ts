@@ -4,12 +4,14 @@ import { BrowserModule } from '@angular/platform-browser';
 import { AppComponent } from './app.component';
 import { TopBarComponent } from './top-bar/top-bar.component';
 import { MyBooksComponent } from './my-books/my-books.component';
+import { MyReadsComponent } from './my-reads/my-reads.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     TopBarComponent,
     MyBooksComponent,
+    MyReadsComponent,
   ],
   imports: [
     BrowserModule
