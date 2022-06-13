@@ -5,6 +5,7 @@ import { AppComponent } from './app.component';
 import { TopBarComponent } from './top-bar/top-bar.component';
 import { MyBooksComponent } from './my-books/my-books.component';
 import { MyReadsComponent } from './my-reads/my-reads.component';
+import { BookComponent } from './book/book.component';
 
 @NgModule({
   declarations: [
@@ -12,6 +13,7 @@ import { MyReadsComponent } from './my-reads/my-reads.component';
     TopBarComponent,
     MyBooksComponent,
     MyReadsComponent,
+    BookComponent,
   ],
   imports: [
     BrowserModule

@@ -14,10 +14,17 @@ export class MyBooksComponent implements OnInit {
   ngOnInit(): void {
     this.myBooks = [
       { 
-        title : 'L\'art de la vitctoire'}
-      ,
+        title : 'L\'art de la vitctoire'
+      },
       { 
-        title : 'L\'intelligence du coeur'}
+        title : 'L\'intelligence du coeur'
+      },
+      { 
+        title : 'L\'intelligence du coeur'
+      },
+      { 
+        title : 'L\'intelligence du coeur'
+      }
     ];
   }
 
